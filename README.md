@@ -1,4 +1,4 @@
-## Traffic Signs Detection
+## Traffic Signs Classifier
 ![](https://automaticaddison.com/wp-content/uploads/2021/02/self-driving-car-road-sign-detection.jpg)
 ## Project Overview
 This project builds a Convolutional Neural Network (CNN) to classify traffic signs using labeled image data. The model is trained using TensorFlow and Keras, leveraging image preprocessing and augmentation techniques.
